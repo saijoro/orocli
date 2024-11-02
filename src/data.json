@@ -1,0 +1,220 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "Name": "Amarthaluri. Prasada Rao",
+      "DOB": "23-Feb-1991",
+      "Designation": "UI / UX DEVELOPER",
+      "Date of Joining": "",
+      "Work Exp": "",
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "2",
+      "Name": "Ampolu.Tharun Kumar",
+      "DOB": "06-Aug-2000",
+      "Designation": "BACKEND DEVELOPER",
+      "Date of Joining": "01-Feb-2023",
+      "Work Exp": 1.75,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "3",
+      "Name": "Ganesh.B",
+      "DOB": "22-Aug-2001",
+      "Designation": "MOBILE DEVELOPER",
+      "Date of Joining": "26-Aug-2023",
+      "Work Exp": 1.19,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "4",
+      "Name": "Hemanth. Kolluri",
+      "DOB": "20-Nov-1999",
+      "Designation": "FRONTEND DEVELOPER",
+      "Date of Joining": "24-Jan-2024",
+      "Work Exp": 0.78,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "5",
+      "Name": "Lakshmi Sowjanya.Talluri",
+      "DOB": "06-Jul-2001",
+      "Designation": "UI / UX DEVELOPER",
+      "Date of Joining": "04-Jan-2023",
+      "Work Exp": 1.83,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "6",
+      "Name": "Manisha .Dasari",
+      "DOB": "28-Sep-2000",
+      "Designation": "FRONTEND DEVELOPER",
+      "Date of Joining": "10-Jan-2024",
+      "Work Exp": 0.81,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "7",
+      "Name": "Pavani. Bellam",
+      "DOB": "07-Jun-1995",
+      "Designation": "QA ENGINEER",
+      "Date of Joining": "21-Apr-2021",
+      "Work Exp": 3.54,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "8",
+      "Name": "Prasad K.",
+      "DOB": "17-Apr-1998",
+      "Designation": "FRONTEND DEVELOPER",
+      "Date of Joining": "17-Jan-2022",
+      "Work Exp": 2.79,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "9",
+      "Name": "Prasanth Kumar. Morcha",
+      "DOB": "07-Apr-2002",
+      "Designation": "FRONTEND DEVELOPER",
+      "Date of Joining": "07-Nov-2022",
+      "Work Exp": 1.99,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "10",
+      "Name": "Prasanth Raju. Yendluri",
+      "DOB": "05-Oct-2000",
+      "Designation": "GRAPHIC DESIGNER",
+      "Date of Joining": "05-Feb-2023",
+      "Work Exp": 1.74,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "11",
+      "Name": "Raghu Ram .Sanke",
+      "DOB": "24-Feb-1999",
+      "Designation": "BACKEND DEVELOPER",
+      "Date of Joining": "14-Nov-2022",
+      "Work Exp": 1.97,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "12",
+      "Name": "Rayudu.K",
+      "DOB": "22-Sep-2000",
+      "Designation": "QA ENGINEER",
+      "Date of Joining": "07-Nov-2023",
+      "Work Exp": 0.99,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "13",
+      "Name": "Sai Chandra. Jagu",
+      "DOB": "11-Sep-2001",
+      "Designation": "FRONTEND DEVELOPER",
+      "Date of Joining": "07-Nov-2022",
+      "Work Exp": 1.99,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "14",
+      "Name": "Sai Krishna.S",
+      "DOB": "26-Feb-1999",
+      "Designation": "BACKEND DEVELOPER",
+      "Date of Joining": "03-Jun-2024",
+      "Work Exp": 0.42,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "15",
+      "Name": "Sathya Gopal. CH",
+      "DOB": "25-Oct-2002",
+      "Designation": "FRONTEND DEVELOPER",
+      "Date of Joining": "13-Jun-2024",
+      "Work Exp": 0.39,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "16",
+      "Name": "Shaik. Jakeer Shareef",
+      "DOB": "15-Feb-1998",
+      "Designation": "BACKEND DEVELOPER",
+      "Date of Joining": "01-Jul-2022",
+      "Work Exp": 2.34,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "17",
+      "Name": "Sirigidi. Ganesh",
+      "DOB": "31-Oct-2002",
+      "Designation": "BACKEND DEVELOPER",
+      "Date of Joining": "01-Feb-2023",
+      "Work Exp": 1.75,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "18",
+      "Name": "Srikanth. Basam",
+      "DOB": "05-May-1993",
+      "Designation": "QA ENGINEER",
+      "Date of Joining": "25-Jan-2021",
+      "Work Exp": 3.77,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "19",
+      "Name": "Srilakshmi P.",
+      "DOB": "8-Nov-2000",
+      "Designation": "QA ENGINEER",
+      "Date of Joining": "26-Jan-2024",
+      "Work Exp": 0.77,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "20",
+      "Name": "Srimannarayana.Y",
+      "DOB": "9-Nov-2000",
+      "Designation": "BACKEND DEVELOPER",
+      "Date of Joining": "02-Dec-2023",
+      "Work Exp": 0.92,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "21",
+      "Name": "Syed Althaf",
+      "DOB": "29-Jul-2000",
+      "Designation": "BACKEND DEVELOPER",
+      "Date of Joining": "06-Jan-2024",
+      "Work Exp": 0.82,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "22",
+      "Name": "Venu Gopal Krishna. Tumati",
+      "DOB": "20-Jun-2000",
+      "Designation": "FRONTEND DEVELOPER",
+      "Date of Joining": "07-Nov-2022",
+      "Work Exp": 1.99,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "23",
+      "Name": "Siva Jaladanki",
+      "DOB": "06-Nov-2001",
+      "Designation": "GRAPHIC DESIGNER",
+      "Date of Joining": "08-Jul-2024",
+      "Work Exp": 0.32,
+      "Skills": ["nodejs", "reactjs"]
+    },
+    {
+      "id": "24",
+      "Name": "Teja",
+      "DOB": "12-Dec-2001",
+      "Designation": "GRAPHIC DESIGNER",
+      "Date of Joining": "03-Oct-2024",
+      "Work Exp": 0.08,
+      "Skills": ["nodejs", "reactjs"]
+    }
+  ]
+}
